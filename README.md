@@ -1,4 +1,4 @@
-# Average_temp_Seoul-Prophet-
+# Average_temp_Seoul(Prophet)
 
 시계열 데이터를 다뤄보기 위해 데이콘에서 진행하는 서울시 평균 기온예측 해커톤에 참여하였습니다.
 
