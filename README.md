@@ -20,11 +20,9 @@ Prophet모형은 구성요소로 Growth(트렌드), Seasonality(계절성), Holi
 - h(t) : 불규칙한 이벤트 ex_휴일
 - ϵt : 정규분포를 따르는 잔차
 
-prophet모델은 시간에 종속적인 구조를 가지는 것이 아닌 curve-fitting방식으로 예측을 진행합니다.  
+자세한 부분은 velog에서 작성하였습니다.
 
-![image](https://github.com/KOO-96/Average_temp_Seoul-Prophet-/assets/113090595/52956593-9d03-43dd-8544-8224ebf6672d)  
-
-[Review]()
+[Review]() 현재 진행중...
 
 ## References(Prophet)
 - [시계열 예측 패키지 Prophet 소개](https://hyperconnect.github.io/2020/03/09/prophet-package.html)
