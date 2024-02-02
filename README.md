@@ -22,7 +22,7 @@ Prophet모형은 구성요소로 Growth(트렌드), Seasonality(계절성), Holi
 
 자세한 부분은 velog에서 작성하였습니다.
 
-[Review]() 현재 진행중...
+[Review](https://velog.io/@rntjdwns1030/Prophet%EB%AA%A8%EB%8D%B8) 현재 진행중...
 
 ## References(Prophet)
 - [시계열 예측 패키지 Prophet 소개](https://hyperconnect.github.io/2020/03/09/prophet-package.html)
